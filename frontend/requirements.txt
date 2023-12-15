@@ -1,0 +1,6 @@
+prometheus-client
+Flask
+Flask-RESTful==0.3.10
+Werkzeug==2.0.2
+Redis
+requests
